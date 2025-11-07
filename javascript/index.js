@@ -10,4 +10,8 @@ const nome = "Seu nome"
 console.log(nome)
 nome = "batata"
 //nome = "batata" - nao pode atrbuir valor
-//parar constante depois declarar
+//parar constante depois declarar"
+const numero1 = 10
+const numero2 = 30
+
+console.log("resultado de") + numero1 + " - " + (numero2)
